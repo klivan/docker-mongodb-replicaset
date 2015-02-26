@@ -13,7 +13,7 @@ $ docker build -t mongo .
 
 Start docker 3 containers with replica set
 ```bash
-$ start.sh
+$ ./start.sh
 ```
 
 Run one more Mongo docker container with bash
