@@ -19,7 +19,7 @@ $ cd docker-mongodb-replicaset
 $ docker build -t mongo .
 ```
 
-Start docker 3 containers with replica set
+Start docker containers with replica set
 ```bash
 $ ./start.sh
 ```
