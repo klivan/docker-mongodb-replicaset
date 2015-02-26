@@ -1,7 +1,7 @@
 # Info
 
 This file describes how to run Mongo DB Replica Set on Docker.
-We made an assumption that Docker IP address on host maching is 172.17.42.1 (and in most cases it's true).
+We made an assumption that Docker IP address on host machine is 172.17.42.1 (and in most cases it's true).
 You can verify it by running `ifconfig docker0` and checking ip address.
 
 We're starting 3 docker containers with MongoDB, they are available on ports 27017, 27018 and 27019.
