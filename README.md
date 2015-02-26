@@ -34,8 +34,7 @@ And run script for Replica Set initialization:
 $ ./replicaSet.sh
 ```
 If you see an error during this step - please wait few minutes - most probably your docker containers haven't started yet.
-
-You'll see something like 
+You'll see something like this:
 ```bash
 root@e4216ca7766f:/# ./replicaSet.sh
 MongoDB shell version: 2.6.8
